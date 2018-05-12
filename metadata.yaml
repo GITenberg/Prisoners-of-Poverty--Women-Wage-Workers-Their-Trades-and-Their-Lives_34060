@@ -1,0 +1,32 @@
+_repo: Prisoners-of-Poverty--Women-Wage-Workers-Their-Trades-and-Their-Lives_34060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Helen
+    aliases:
+    - Campbell, Helen Stuart, Mrs.
+    - Weeks, Helen C. (Helen Campbell)
+    - Wheaton, Campbell
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '2222'
+    url: http://www.gutenberg.org/2009/agents/2222
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
+description: ''
+gutenberg_issued: '2010-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Women -- Employment -- United States'
+- !lcsh 'Women -- Employment'
+title: 'Prisoners of Poverty: Women Wage-Workers, Their Trades and Their Lives'
+url: http://www.gutenberg.org/ebooks/34060
